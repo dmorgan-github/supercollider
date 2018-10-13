@@ -74,6 +74,7 @@ w.drawFunc = { |v|
     Pen.lineTo(150@150);
     Pen.fillStroke;
 };
+w.refresh;
 )
 ::
 
